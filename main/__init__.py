@@ -1,4 +1,4 @@
-#ChauhanMahesh/Vasusen/DroneBots/COL
+#Github.com/8769Anurag
 
 from telethon import TelegramClient
 from decouple import config
