@@ -1,0 +1,6 @@
+#Github.com/8769Anurag
+
+ethon==1.3.6
+cryptg
+tgcrypto
+pyrogram==1.4.16
