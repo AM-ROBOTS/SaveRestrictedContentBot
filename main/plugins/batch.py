@@ -1,5 +1,5 @@
-#Tg:MaheshChauhan/DroneBots
-#Github.com/Vasusen-code
+#Tg:sources_cods/Am_RoBots
+#Github.com/8769Anurag
 
 """
 Plugin for both public & private channels!
