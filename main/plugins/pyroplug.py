@@ -1,4 +1,4 @@
-# Github.com/8769Anurag
+#Github.com/8769Anurag
 
 import asyncio, time, os
 
@@ -67,7 +67,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i):
                     time.time()
                 )
             )
-            await edit.edit('Preparing to Upload!')
+            await edit.edit('Prearing to Upload!')
             caption = str(file)
             if msg.caption is not None:
                 caption = msg.caption
