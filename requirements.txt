@@ -1,0 +1,5 @@
+ethon
+python-decouple
+pyrogram
+telethon
+tgcrypto
