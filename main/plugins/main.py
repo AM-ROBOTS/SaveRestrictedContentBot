@@ -1,4 +1,4 @@
-# Github.com/Vasusen-code
+#Github.com/8769Anurag
 
 from main.plugins.helpers import get_link, join, screenshot
 from main.plugins.display_progress import progress_for_pyrogram
