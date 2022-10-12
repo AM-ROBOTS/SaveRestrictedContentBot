@@ -1,4 +1,4 @@
-# Github.com/Vasusen-code
+#Github.com/8769Anurag
 
 import asyncio, time, os
 
