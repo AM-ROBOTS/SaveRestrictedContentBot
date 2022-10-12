@@ -1,4 +1,4 @@
-#Github.com/Vasusen-code
+#Github.com/8769Anurag
 
 from pyrogram import Client
 from pyrogram.errors import FloodWait, BadRequest
